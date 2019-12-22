@@ -2,7 +2,7 @@ package sparsearray;
 
 /**
  * 稀疏数组
- * 
+ *
  * 就是将多的数据简化后存储，减少空间的占用
  */
 public class SparseArray {
