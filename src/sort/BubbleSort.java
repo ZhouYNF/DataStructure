@@ -24,6 +24,7 @@ public class BubbleSort {
                     temp = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
+                    
                 }
             }
             System.out.println("第" + (i + 1) + "轮排序");
